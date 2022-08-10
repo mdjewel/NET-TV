@@ -1,7 +1,12 @@
-Authors
--------
 
-* Eric (New contributor)
-* Anthony 
+=======
+Credits
+=======
 
+Development Lead
+----------------
 
+Contributors
+------------
+
+* mdjewel Celik <mdjewelbd@gmail.com>
